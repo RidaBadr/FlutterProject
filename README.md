@@ -51,3 +51,18 @@ MIAGED est une plateforme de vente en ligne proposant une variété de produits 
 - SplashScreen
 - Interface pour s'inscrire s'il s'agit d'un nouvel utilisateur
 - un Drawer qui affiche le logo de l'application et FAQ, A propos, Se Déconnecter
+
+### SCREENSHOT
+
+![2023-03-17_19h51_03](https://user-images.githubusercontent.com/114596641/225993788-14b96d37-343d-4e84-b50e-8374a3c547df.png)
+![2023-03-17_19h43_43](https://user-images.githubusercontent.com/114596641/225993932-5f41142e-a374-4e02-8678-1b4cb19d76c6.png)
+![2023-03-17_19h45_05](https://user-images.githubusercontent.com/114596641/225993950-90ba9a3a-5a59-4fa9-8d4d-c32dc15a7d91.png)
+![2023-03-17_19h38_30](https://user-images.githubusercontent.com/114596641/225994006-308f5bb5-6e0c-4201-9b1e-8f9983aaf4ee.png)
+![2023-03-17_19h39_06](https://user-images.githubusercontent.com/114596641/225994021-f07fa9f5-e8b8-4e7b-a7e8-a43d07ec9fcc.png)
+![2023-03-17_19h39_31](https://user-images.githubusercontent.com/114596641/225994034-f074c477-f838-4015-8f93-954af9654e40.png)
+![2023-03-17_19h39_44](https://user-images.githubusercontent.com/114596641/225994048-27dae8a5-abff-4f21-8c29-31a3825a6f56.png)
+![2023-03-17_19h40_37](https://user-images.githubusercontent.com/114596641/225994053-c2211d91-e406-4714-95e5-acd21f00edf4.png)
+![2023-03-17_19h41_25](https://user-images.githubusercontent.com/114596641/225994069-54d01ee3-8a3a-4c7a-a048-b3729f893037.png)
+
+![2023-03-17_19h42_44](https://user-images.githubusercontent.com/114596641/225994127-1f4f9e58-5cc7-435e-a168-3b4d0af1ab20.png)
+
