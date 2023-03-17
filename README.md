@@ -51,6 +51,7 @@ MIAGED est une plateforme de vente en ligne proposant une variété de produits 
 - SplashScreen
 - Interface pour s'inscrire s'il s'agit d'un nouvel utilisateur
 - un Drawer qui affiche le logo de l'application et FAQ, A propos, Se Déconnecter
+- Changement de l'icône de l'application
 
 ### SCREENSHOT
 
