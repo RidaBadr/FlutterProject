@@ -5,10 +5,10 @@ MIAGED est une plateforme de vente en ligne proposant une variété de produits 
 ## MVP of the application
 
 ### US#1:[MVP] Interface de login
-[*]  Les deux champs de saisie sont : Email et Mot De Passe
-[*] Le champ de saisie du Mot de Passe est obfusqué.
-[*] Le label du bouton est : Se connecter
-[*]  Au clic sur le bouton « Se connecter », une vérification en base est réalisée [avec la gestion des erreurs]. Si l’utilisateur existe, celui-ci est redirigé sur la page Home qui contient l'ensemble des produits à vendre.
+-  Les deux champs de saisie sont : Email et Mot De Passe
+- Le champ de saisie du Mot de Passe est obfusqué.
+- Le label du bouton est : Se connecter
+-  Au clic sur le bouton « Se connecter », une vérification en base est réalisée [avec la gestion des erreurs]. Si l’utilisateur existe, celui-ci est redirigé sur la page Home qui contient l'ensemble des produits à vendre.
 
 ### US#2:[MVP] Liste de vêtements
 [*] l’utilisateur arrive sur cette page et pourra visualiser le contenu principal et d’une BottomNavigationBar composée de trois entrées et leurs icônes correspondantes : [Acheter], [Panier], [Profil]
