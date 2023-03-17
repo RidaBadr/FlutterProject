@@ -3,8 +3,8 @@
 MIAGED est une plateforme de vente en ligne proposant une variété de produits pour (Homme, Femme, Enfant), permettant aux utilisateurs d'ajouter ou de retirer des articles de leur panier, de modifier leur profil et de sauvegarder ces informations dans une base de données Firebase.
 
 # Informations de connexion : 
-  Login : badr@miage.ma
-  Mot de passe : azerty
+  - Login : badr@miage.ma
+  - Mot de passe : azerty
 
 ## MVP of the application
 
